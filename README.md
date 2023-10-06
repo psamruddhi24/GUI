@@ -1,2 +1,3 @@
 # GUI
 GUI for Area Measuring Machine 
+Here there are two Radio buttons which are sq. cm and sq. ft respectively. We have a measuring indicator to the right which specifies the measuring’s of GUI. Hide no. indicates the group of entries that are given, whereas Hide Area is the input of Area taken by the user that is used for calculations. Add entry button adds the area input to the total. Total is represented by Total Batch Area in Sq.cm. Cancel last entry button subtracts the previous entry from the total and makes necessary changes in the total batch area. Finish ends the ongoing batch and refreshes the machine for next entry.
